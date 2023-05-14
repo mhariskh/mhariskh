@@ -11,6 +11,10 @@
 - 🌱 &nbsp; Learning more about React JS and Animations.
 - ✍️ &nbsp; Pursuing Content Writing as hobbies/side hustles.
 
+<h3> 👨🏻‍💻 &nbsp;Currently Contributing and Generating Impact at:  </h3>
+- Markaz.app - Product owner of the Supplier Web Platform. 
+- Generating impact by helping suppliers get connected with resellers easily and helping in the order management. 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
