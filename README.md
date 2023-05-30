@@ -7,7 +7,8 @@
 - 🤔 &nbsp; Exploring new technologies and always craving for knowledge.
 - 🎓 &nbsp; Studying Computer Science at National University of Sciences and Technology (NUST).
 - 💼 &nbsp; Worked as a React JS intern at Machine Vision and Intelligence Lab.
-- 💼 &nbsp; Worked as Web Developer intern at CoExLogica.
+- 💼 &nbsp; Worked as Web Developer at CoExLogica.
+- 🌏 &nbsp; Worked as Community Associate at Remotebase.com .
 - 🌱 &nbsp; Learning more about React JS and Animations.
 - ✍️ &nbsp; Pursuing Content Writing as hobbies/side hustles.
 
