@@ -54,7 +54,7 @@
 <br/>
 
 <a href="https://github.com/mhariskh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhariskh&theme=buefy&show_icons=true" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhariskh&theme=buefy&layout=compact" />
 </a>
 
