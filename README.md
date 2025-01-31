@@ -14,8 +14,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Currently Contributing and Generating Impact at:  </h3>
 
-- 🟩 &nbsp; Markaz.app - Product owner of the Supplier Web Platform. 
-- 🌱 &nbsp; Generating impact by helping suppliers get connected with resellers easily and helping in the order management. 
+- Vyro.ai
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
