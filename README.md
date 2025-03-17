@@ -5,12 +5,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and always craving for knowledge.
-- 🎓 &nbsp; Studying Computer Science at National University of Sciences and Technology (NUST).
-- 💼 &nbsp; Worked as a React JS intern at Machine Vision and Intelligence Lab.
+- 🎓 &nbsp; Studied Computer Science at National University of Sciences and Technology (NUST).
+- 💼 &nbsp; Working as a Frontend Engineer at Vyro.ai
+- 💼 &nbsp; Worked as a Web Engineer at Markaz Technologies
+- 💼 &nbsp; Worked as a Web Developerr at Zaheen Systems, NSTP.
+- 💼 &nbsp; Worked as a Full Stack Developer at Intel Contact Cards (Product) and Intel Tap Cards (Parent Company)
+- 💼 &nbsp; Worked as a React JS Developer at Machine Vision and Intelligence Lab.
 - 💼 &nbsp; Worked as Web Developer at CoExLogica.
 - 🌏 &nbsp; Worked as Community Associate at Remotebase.com .
-- 🌱 &nbsp; Learning more about React JS and Animations.
-- ✍️ &nbsp; Pursuing Content Writing as hobbies/side hustles.
+- 🌱 &nbsp; Always craving for more knowledge.
+
 
 <h3> 👨🏻‍💻 &nbsp;Currently Contributing and Generating Impact at:  </h3>
 
@@ -30,6 +34,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](![image](https://github.com/user-attachments/assets/9b1f88bd-846d-468a-8e90-76f01980baa6)
+)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
